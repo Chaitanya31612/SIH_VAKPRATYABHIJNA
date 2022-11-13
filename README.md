@@ -40,7 +40,7 @@ VAKPRATYABHIJNA
 
 2. Web Application - https://github.com/Chaitanya31612/SIH_Frontend_webapp
 
-3. Backend / Machine Learning - https://github.com/Chaitanya31612/Smart-India-Hackathon-2022
+3. Backend / Machine Learning - https://github.com/PeaPals/Smart-India-Hackathon-2022
 
 4. Android Application
 
