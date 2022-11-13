@@ -1,4 +1,4 @@
-# Smart India Hackathon
+# Smart India Hackathon - 2022
 
 ## Problem Details
 
