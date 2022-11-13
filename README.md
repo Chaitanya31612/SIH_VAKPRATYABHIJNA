@@ -52,6 +52,12 @@ VAKPRATYABHIJNA
 
 ![image](https://user-images.githubusercontent.com/54992097/201528705-37492fde-9025-4f3a-a5a8-7c13aa1a34aa.png)
 
+## Snapshots 
+
+![Screenshot (793)](https://user-images.githubusercontent.com/54992097/201529035-e3aac2a2-10f6-4a17-9256-11986a5b37fd.png)
+
+![image](https://user-images.githubusercontent.com/54992097/201529353-47b9e43e-5073-4755-a9c6-c22df4261c6a.png)
+
 
 ## Applications
 
