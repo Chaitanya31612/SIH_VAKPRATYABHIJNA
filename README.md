@@ -42,7 +42,7 @@ VAKPRATYABHIJNA
 
 3. Backend / Machine Learning - https://github.com/PeaPals/Smart-India-Hackathon-2022
 
-4. Android Application
+4. Android Application - https://github.com/hnhparitosh/SIH_Android_App
 
 ## Tech Stack
 
